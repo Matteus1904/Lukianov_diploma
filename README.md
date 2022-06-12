@@ -16,8 +16,6 @@ Dublenskii (@IvanDublsSt), Ivan Potapov (@Vanaeque), Matvey Lukyanov (@Matteus19
 
 `Model_compare.ipynb` — notebook, comparing final performance of models
 
-`LICENCE*` — Licence file
-
 `requirements.txt` lists all the libraries and versions to set up the virtual environment
 
 
